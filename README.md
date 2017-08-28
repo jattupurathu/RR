@@ -1,2 +1,3 @@
-Account Services
-http://www.baeldung.com/spring-cloud-netflix-eureka
+Account Services\n
+http://www.baeldung.com/spring-cloud-netflix-eureka \n
+http://ryanjbaxter.com/2015/01/06/securing-rest-apis-with-spring-boot/
